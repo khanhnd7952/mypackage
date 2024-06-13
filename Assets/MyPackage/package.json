@@ -1,0 +1,25 @@
+{
+  "name": "com.khanhnd.mytestpackage",
+  "displayName": "Test Package",
+  "description": "Only My Test Package ^^",
+  "version": "0.0.1",
+  "unity": "2022.3",
+  "category": "core",
+  "author": {
+    "name": "yenmoc",
+    "email": "khanh.nd@gmail.com",
+    "url": "https://github.com/khanhnd7952"
+  },
+  "license": "MIT",
+  "keywords": [
+    "unity"
+  ],
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:khanhnd7952/mypackage.git",
+    "directory": "Heart"
+  }
+}
